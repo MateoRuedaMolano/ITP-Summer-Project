@@ -1,7 +1,9 @@
 # 📊 ITP Summer Project – Data Sharing for Smarter Services
-**Client:** City of Espoo
-**Program:** Aalto University School of Business – Information Technology Program (ITP)
-**Focus Area:** Smart Mobility & Data Sharing Ecosystems
+**Client:** City of Espoo.
+
+**Program:** Aalto University School of Business – Information Technology Program (ITP).
+
+**Focus Area:** Smart Mobility & Data Sharing Ecosystems.
 
 Welcome to the repository for our ITP Summer Project, where we collaborated with the City of Espoo to explore how municipalities can better leverage data to co-create smarter, citizen-centric services.
 
